@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: black;
+padding:10px;
+}
+ header b {
+    color:red ;
+ }
+  h1{
+    color: red;
+    text-align:center;
+
+ }
+ footer{
+  background-color: black;
+ }
+ footer p{
+   color: red;
+   text-align:left;
+ }
+ .abc{
+  background-color: red ;
+ }
